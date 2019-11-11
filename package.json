@@ -1,0 +1,24 @@
+{
+  "name": "weather_scraping",
+  "private": true,
+  "scripts": {
+    "dev": "ruby ./bin/webpack-dev-server",
+    "build": "ruby ./bin/webpack",
+    "webpack-dev-server": "webpack-dev-server",
+    "webpack": "webpack"
+  },
+  "dependencies": {
+    "@rails/activestorage": "6.0.0",
+    "@rails/ujs": "6.0.0",
+    "@rails/webpacker": "4.0.7",
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.4",
+    "vue": "^2.6.10",
+    "vue-loader": "15.7.2",
+    "vue-template-compiler": "2.6.10"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack-dev-server": "3.9.0"
+  }
+}

@@ -1,0 +1,4 @@
+:schedule:
+  WeatherScrapeWorker:
+    interval: ['1h']
+#    interval: ['10s']
