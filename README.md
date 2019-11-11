@@ -23,8 +23,3 @@ Run:
 
 To run RSpec tests:
 * `bundle exec rspec`
-
-
-Things you may want to cover:
-
-* How to run the test suite
